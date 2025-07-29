@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^22.16.5",
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3"
+  },
+  "prettier": {}
+}
