@@ -7,5 +7,4 @@
 
 **TODOs**
 
-- Update package name
-- Remove these todos
+- Rewrite this `README.md`
